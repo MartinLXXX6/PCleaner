@@ -1,4 +1,5 @@
 # Overview
+![Image](https://github.com/user-attachments/assets/828a9bca-5b48-45a7-b612-b2f85effaa37)
 
 # How to Run
 - Navigate to the Release section and download the latest "PCleaner.zip" file
