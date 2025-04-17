@@ -1,6 +1,7 @@
 # Overview
 
 # How to Run
+- Navigate to the Release section and download the latest "PCleaner.zip" file
 - Extract the "PCleaner.zip" file
 - Open the folder
 - Run PCleaner.exe (Requires Admin Privileges)
